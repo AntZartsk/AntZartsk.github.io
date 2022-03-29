@@ -1,0 +1,27 @@
+.card {
+  border-radius: 1em;
+  text-align: center;
+  padding: 1em;
+}
+.card:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  border-radius: 50%;
+  width: 60%;
+  margin: auto;
+}
+body {
+  background: url("/photo/error-5100.jpg") 0px;
+  background-size: 100%;
+  background-image: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+
+.text {
+  text-align: center;
+}
