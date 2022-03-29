@@ -19,9 +19,13 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-color: #464646;
+  background-color: #e9e6e6;
 }
 
 .text {
   text-align: center;
+}
+p {
+  font-size: 145%;
+  color: rgb(230, 210, 210);
 }
