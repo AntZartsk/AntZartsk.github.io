@@ -10,19 +10,24 @@
   margin: auto;
 }
 body {
-  background: url("/photo/error-5100.jpg") 0px;
-  background-size: 100%;
-  background-image: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-color: #e9e6e6;
+  background: pink;
 }
 
 .text {
+  text-align: left;
+}
+h3 {
+  font-size: 200%;
+  color: black;
+  text-align: center;
+
+  font-style: italic;
+}
+
+p {
+  font-size: 200%;
   text-align: center;
 }
-h4 {
-  font-size: 160%;
-  color: brown;
+.a {
+  text-align: center;
 }
